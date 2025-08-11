@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 🧠 Estudando *HTML, CSS, JavaScript e React*
+- 🧠 Estudando *HTML, CSS, JavaScript*
 - 📚 Atualmente no bootcamp Santander e curso fullstack do DevClub
 - 🛠 Criando projetos reais como freelancer e ampliando meu portfólio
 - 🧰 Trabalhando em projetos como: landing pages, clones de sites e e-commerces
